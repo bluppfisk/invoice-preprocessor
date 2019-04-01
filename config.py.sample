@@ -1,0 +1,7 @@
+TO = "user@domain.tld"
+INPUT_PATH = "./new_invoices/"
+OUTPUT_PATH = "./processed_invoices/"
+FROM = "me@domain.tld"
+MAILTEXT = "Attachment formatted and forwarded with Invoice PreProcessor\n(c) 2019 Bluppfisk"
+NEW_LABEL_ID = "Label_192837921873981"
+ARCHIVE_LABEL_ID = "Label_192837921873982"
